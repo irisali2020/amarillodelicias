@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Chocolate",
+    "precio": "90000.00",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJg6rB6yJbr377OYKZEm-qkGFrre4LkLb23g&s",
+    "descripcion": "Torta de chocolate y almendras rellena con crema",
+    "categoria": "Ponqué relleno",
+    "id": "1"
+  },
+  {
+    "nombre": "Cupcakes",
+    "precio": "25000.00",
+    "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6x3SWV7nhBVky-ds7FgZ0YqVdufPjthw02-k23BiMVqoIKIu3KHK1eX33WvKapEvTBL57EZ7hHo5m9Ec7NadtJGtjS-yJEHgYQYmmXugjrHAYw2SEguGqpqyA2Wt7HaPqkraPkRezRk/s1600/cupcakes-vainilla-decorados-merengue.jpg",
+    "descripcion": "Cupcakes con diversos sabores y decoraciones",
+    "categoria": "Ponqué pequeño",
+    "id": "2"
+  },
+  {
+    "nombre": "Torta de Rosas",
+    "precio": "55000.83",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShi82FPDJNymmKCxUxA4BoYKuntN3nW1oCQ&s",
+    "descripcion": "Torta de Vainilla rellena con fresas",
+    "categoria": "Merengue",
+    "id": "3"
+  },
+  {
+    "nombre": "Torta con Profiteroles",
+    "precio": "60000.00",
+    "avatar": "https://i.pinimg.com/736x/84/56/b8/8456b8a749b2412c7c2f52155d6a109a.jpg",
+    "descripcion": "Torta con profiteroles rellenos con crema pastelera y crema de chocolate",
+    "categoria": "Profiterol",
+    "id": "4"
+  },
+  {
+    "nombre": "Torta de Mocka",
+    "precio": "55000.00",
+    "avatar": "https://i.ytimg.com/vi/vDD76mZEvdc/maxresdefault.jpg",
+    "descripcion": "Torta con sabor a café",
+    "categoria": "Ponqué relleno",
+    "id": "5"
+  },
+  {
+    "nombre": "Strudel de Manzana",
+    "precio": "55000.00",
+    "avatar": "https://s2.elespanol.com/2023/11/14/cocinillas/recetas/postres/809679716_237593841_1024x576.jpg",
+    "descripcion": "Strudel con manzanas hecho con hojaldre",
+    "categoria": "Hojaldre",
+    "id": "6"
+  },
+  {
+    "nombre": "Torta de queso",
+    "precio": "60000.00",
+    "avatar": "https://imag.bonviveur.com/new-york-cheesecake-en-el-plato.jpg",
+    "descripcion": "Torta elaborada con queso crema y sirope",
+    "categoria": "Pie",
+    "id": "7"
+  },
+  {
+    "nombre": "Crumble de Manzana",
+    "precio": "60000.45",
+    "avatar": "https://imagenes.montevideo.com.uy/imgnoticias/202006/_W933_80/730314.jpg",
+    "descripcion": "Crumble(migas) con manzana",
+    "categoria": "Pie",
+    "id": "8"
+  },
+  {
+    "nombre": "Quesillo",
+    "precio": "40000.00",
+    "avatar": "https://annaspasteleria.com/images/2021post/_videoCover/DSC_0106web.jpg",
+    "descripcion": "Quesillo elaborado con leche condensada",
+    "categoria": "Mouse",
+    "id": "9"
+  },
+  {
+    "nombre": "Torta de Fresa",
+    "precio": "60000.00",
+    "avatar": "https://i.pinimg.com/originals/78/76/90/78769077ac838c88e09a0d2284c1d248.jpg",
+    "descripcion": "Torta de vainilla rellena con fresas y cubierta con fresas",
+    "categoria": "Ponqué",
+    "id": "10"
+  }
+]
