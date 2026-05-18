@@ -1,4 +1,4 @@
-AmarilloDulce
+Amarillo Delicias
 
 Es un proyecto con propósitos educativos para aprender a usar React, desarrollando una SPA similar a una tienda con esquema ecommerce, la cual cuenta con un carrito de compras.
 
