@@ -9,6 +9,5 @@ El administrador del sistema tiene la facilidad para crear, leer, actualizar y e
 El cliente podria comprar los productos que desee asi como pagar (simulación) estando en un ambiente protegido ya que debe utilizar un token para acceder a esta facilidad.
 
 Es importante resaltar lo siguiente:
-1. El proyecto en React se llama amarillodulce212vercel. Este fue el que se subió a Github.
-2.- En github se llama amarillodelicias. Hubo necesidad de llamarlo diferente porque no aceptaba el nombre de amarillodulce21.
-3.- La SPA definitiva en Vercel se llamará amarillodulce.
+1. El proyecto en React se llama amarillodulce212vercel. Este fue el que se subió a Github. El nombre de la tienda de postres es Amarillo Delicias.
+2.- En github se llama amarillodelicias. 

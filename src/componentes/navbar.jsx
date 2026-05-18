@@ -24,7 +24,7 @@ function Navbar() {
     <>
       <NavbarContainer className="navbar navbar-expand-lg navbar-dark fixed-top">
         <div className="container-fluid">
-          <Logo to="/" className="navbar-brand">Amarillo Dulce</Logo>
+          <Logo to="/" className="navbar-brand">Amarillo Delicias</Logo>
           
           <button 
             className="navbar-toggler" 

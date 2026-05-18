@@ -195,7 +195,7 @@ useEffect(() => {
               )}
             </div>
           </div>
-       {/* <CarritoCompras /> */}
+       <CarritoCompras /> 
     </>
   );
 }
