@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 function FormularioProducto() {
+  const navigate = useNavigate();
   // Estados del componente
   const [producto, setProducto] = useState({nombre: '', precio: '', avatar: '',descripcion: '', categoria: '', });
   const [errores, setErrores] = useState({});
@@ -76,6 +78,7 @@ function FormularioProducto() {
       if (!respuesta.ok) throw new Error('Error al agregar el producto.');
 
       const data = await respuesta.json();
+      console.log('Producto creado en la API:', data);
       alert('Producto agregado correctamente');
       navigate('/ListaProductos');
     } catch (error) {

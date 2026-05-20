@@ -59,7 +59,7 @@ useEffect(() => {
   return (
     <>
       <header className="container mt-4">
-          <h1 className="display-5 fw-bold">Amarillo Dulce | Postres</h1>
+          <h1 className="display-5 fw-bold">Amarillo Delicias | Postres</h1>
           <p className="lead text-muted">Filtra por nombre o tamaño (pequeño, mediano, grande) para encontrar el postre que buscas.</p>
       </header>
 

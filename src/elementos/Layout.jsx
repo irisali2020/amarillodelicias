@@ -6,7 +6,7 @@ import Footer from '../componentes/Footer';
 function Layout({ children }) {
   // SEO NATIVO con useEffect
   useEffect(() => {
-    document.title = "Amarillo Dulce | Postres tradicionales por tamaños pequeños, medianos y grandes";
+    document.title = "Amarillo Delicias | Postres tradicionales por tamaños pequeños, medianos y grandes";
    
     // Función que actualiza meta tags
     const updateMetaTag = (name, content, attribute = 'name') => {
@@ -26,7 +26,7 @@ function Layout({ children }) {
     updateMetaTag('robots', 'index, follow');
 
     // Open Graph para redes sociales
-    updateMetaTag('og:title', 'Tienda Amarillo Dulce | Los Mejores Postres', 'property');
+    updateMetaTag('og:title', 'Tienda Amarillo Delicias | Los Mejores Postres', 'property');
     updateMetaTag('og:description', 'Descubre una amplia variedad de postres: tortas, dulces, alfajores, crumble. De todos los tamaños.', 'property');
     updateMetaTag('og:type', 'website', 'property');
     updateMetaTag('og:url', window.location.origin, 'property');
@@ -34,7 +34,7 @@ function Layout({ children }) {
 
     // Twitter Card
     updateMetaTag('twitter:card', 'summary_large_image');
-    updateMetaTag('twitter:title', 'Tienda de Postres');
+    updateMetaTag('twitter:title', 'Tienda Amarillo Delicias | Los Mejores Postres');
     updateMetaTag('twitter:description', 'Compra los mejores postres y dulces');
     
 
